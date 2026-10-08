@@ -1,0 +1,5 @@
+.venv
+*.pkl
+*.lock
+config.bat
+node_modules
